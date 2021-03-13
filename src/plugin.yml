@@ -1,0 +1,12 @@
+name: PrisonBoss
+version: 0.0.1
+author: TheZefirrkka
+main: ru.trycat.bosses.Bosses
+commands:
+ addspawner:
+  permission: prison.admin
+ resetbosses:
+  permission: prison.admin
+ removespawner:
+  permission: prison.admin
+load: POSTWORLD
